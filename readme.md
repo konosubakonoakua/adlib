@@ -12,6 +12,12 @@
 
   ![1543405023258](./pic/View_Option.png)
 
+- 再来个例子
+
+![1543477879788](./pic/demo2.png)
+
+![1543477839837](./pic/demo2_com.png)
+
 Thanks to KitSprout and issus's Libs
 
 https://github.com/KitSprout/AltiumDesigner_PcbLibrary
